@@ -504,3 +504,4 @@ git pull version 502
 git pull version 503
 git pull version 504
 git pull version 505
+git pull version 506
