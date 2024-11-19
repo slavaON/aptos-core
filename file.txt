@@ -24,3 +24,4 @@ git pull version 22
 git pull version 23
 git pull version 24
 git pull version 25
+git pull version 26
